@@ -8,4 +8,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatih-Kilinc&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
 <hr>
 <p class="has-line-data" data-line-start="12" data-line-end="13"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Fatih-Kilinc&amp;icon=0&amp;color=0" alt=""></a></p>
-<p class="has-line-data" data-line-start="14" data-line-end="15">&lt;!-- Proudly created with GPRM ( <a href="https://gprm.itsvg.in">https://gprm.itsvg.in</a> ) --&gt;</p>
